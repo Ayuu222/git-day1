@@ -8,4 +8,8 @@ public void gayatri()
  System.out.println("This is Gayatri");
 }
 syso("Hello Gayatri");
+
+public void Ayu(){
+	System.out.println("This is Ayu");
+}
 }
