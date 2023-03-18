@@ -7,5 +7,5 @@ public void gayatri()
 {
  System.out.println("This is Gayatri");
 }
-
+syso("Hello Gayatri");
 }
