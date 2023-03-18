@@ -9,23 +9,13 @@ public void gayatri()
 }
 syso("Hello Gayatri");
 
-<<<<<<< Updated upstream
+
 public void Ayu(){
 	System.out.println("This is Ayu");
 }
-=======
+
 public void stash_gayatri()
 {
   syso("stash for gayatri");
-  >>>>>>new changes by gayatri
-
- syso("learning stash");
-
-}
-
->>>>>>> Stashed changes
-
-
-
-
+ }
 }
