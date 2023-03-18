@@ -18,4 +18,9 @@ public void stash_gayatri()
 {
   syso("stash for gayatri");
  }
+
+public void stash_gayatri()
+{
+  syso("Push by gayatri");
+ }
 }
