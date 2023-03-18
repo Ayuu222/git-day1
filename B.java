@@ -17,8 +17,15 @@ public void Ayu(){
 public void stash_gayatri()
 {
   syso("stash for gayatri");
+  >>>>>>new changes by gayatri
+
+ syso("learning stash");
 
 }
 
 >>>>>>> Stashed changes
+
+
+
+
 }
