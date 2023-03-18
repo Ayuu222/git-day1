@@ -19,16 +19,15 @@ public void stash_gayatri()
   syso("stash for gayatri");
  }
 
-<<<<<<< Updated upstream
+
 public void stash_gayatri()
 {
   syso("Push by gayatri");
  }
-=======
+
 }
 public void stashAyu(){
 	syso("stash code");
 }
 
->>>>>>> Stashed changes
 }
