@@ -5,14 +5,18 @@ public class Ak
 	{
 
 		System.out.println("Demo");
+		System.out.println("for stack");
 	}
+	
 
 -------------------------------------------
 System.out.println("aaaaaaaaaaaaaaaaaaaaaa");
 
 
 
-
 Namaste!!!!!!!
+
+hello
+
 
 }
