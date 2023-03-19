@@ -17,9 +17,4 @@ public void m1()
 System.out.println("method m1");
 }
   
-  -------
-    rushikesh
-    ---------
- -------
-    akansha
-    ---------
+I am Ak1
